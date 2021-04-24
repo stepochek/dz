@@ -1,4 +1,4 @@
-stroka = 'j17n05'
+stroka = input(':')
 
 
 def func(stroka):
